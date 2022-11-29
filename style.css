@@ -175,7 +175,7 @@ footer span{
 
 
 /*-----------------Mobile responsive-----------------*/
-@media screen and (max-width: 480px){
+@media (max-width: 480px){
 
     #max-width{
         margin: 0 10px;
