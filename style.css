@@ -135,7 +135,7 @@ header nav{
 .slide{
     width: 900px;
     height: 450px;
-    background: url(/image/1.jpg);
+    background: url(image/1.jpg);
     background-size: 100%;
     margin: 20px auto;
     animation: slide 30s ease infinite;
