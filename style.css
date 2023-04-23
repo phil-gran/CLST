@@ -36,8 +36,7 @@ body::before {
 }
 
 #map{
-    width: 600;
-    height: 250;
+    height: 50vh;
 }
 
 @media(min-width: 768px){
